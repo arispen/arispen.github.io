@@ -4,7 +4,7 @@
 [kongregate.com/games/arispen](https://www.kongregate.com/games/arispen)
 
 ## Blockchain
-* [ethervoxel.space](https://ethervoxel.space/)
+* [Ether Voxel Space](https://ethervoxelspace.github.io/)
 * [crypto artifacts](https://cryptoartifacts.co/)
 
 ## Early Music Group
